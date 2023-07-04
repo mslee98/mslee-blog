@@ -1,0 +1,20 @@
+{
+    "board": [
+        {
+            "seq": 1,
+            "content": "json-server-test"
+        },
+        {
+            "seq": 2,
+            "content": "json-server-test"
+        },
+        {
+            "seq": 3,
+            "content": "json-server-test"
+        },
+        {
+            "seq": 4,
+            "content": "json-server-test"
+        }
+    ]
+}
