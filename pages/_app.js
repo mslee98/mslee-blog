@@ -6,8 +6,6 @@ import DefaultLayout from '@/components/DefaultLayout';
 
 export default function App({ Component, pageProps }) {
 
-  console.log("!!!!!!!!!!!!",Component)
-
   return (
     <>
       <ThemeProvider attribute='class'>
